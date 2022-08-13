@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("test!");
         System.out.println("merger into test");
+        System.out.println("merger into test 2");
     }
 }
